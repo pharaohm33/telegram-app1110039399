@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 fb84541872b5432a97cf1ed5edd3a62e0591644d Emmanuel Montano <montanoemmanuel@gmail.com> 1723802513 -0700	commit (initial): Initial commit
+fb84541872b5432a97cf1ed5edd3a62e0591644d 7aca736b83b9823ebd5198083ec1645c11cc840b Emmanuel Montano <montanoemmanuel@gmail.com> 1723803168 -0700	commit: first commit
+7aca736b83b9823ebd5198083ec1645c11cc840b 0000000000000000000000000000000000000000 Emmanuel Montano <montanoemmanuel@gmail.com> 1723803174 -0700	Branch: renamed refs/heads/main to refs/heads/main
+7aca736b83b9823ebd5198083ec1645c11cc840b 7aca736b83b9823ebd5198083ec1645c11cc840b Emmanuel Montano <montanoemmanuel@gmail.com> 1723803174 -0700	Branch: renamed refs/heads/main to refs/heads/main
+7aca736b83b9823ebd5198083ec1645c11cc840b 57e25656fda611ca523dfedfc1e18d3c6ad836f4 Emmanuel Montano <montanoemmanuel@gmail.com> 1723804977 -0700	commit: Fix build issues
+57e25656fda611ca523dfedfc1e18d3c6ad836f4 d5a06516ab27ccfcf4efd8a3ba32cffb1455536b Emmanuel M <montanoemmanuel@gmail.com> 1723807640 -0700	commit: Prepare for Heroku deployment
+d5a06516ab27ccfcf4efd8a3ba32cffb1455536b b14e8467e5451f8f11ce8352af390c26d1784279 Emmanuel M <montanoemmanuel@gmail.com> 1723808393 -0700	commit: fixing basic function
+b14e8467e5451f8f11ce8352af390c26d1784279 1aa1e565cfd7cd78de2ecb657b824f598bac549d Emmanuel M <montanoemmanuel@gmail.com> 1723808624 -0700	commit: Added login verification and other updates
+1aa1e565cfd7cd78de2ecb657b824f598bac549d fdbe5d5f458ca5afa5793dd716598c2fcf1fd044 Emmanuel M <montanoemmanuel@gmail.com> 1723810108 -0700	commit: Initial commit with project files
+fdbe5d5f458ca5afa5793dd716598c2fcf1fd044 0c27667fe586c196e202dd82f265e09284fa2ccd Emmanuel M <montanoemmanuel@gmail.com> 1723810325 -0700	commit (merge): Resolved merge conflicts in Procfile.txt and requirements.txt
+0c27667fe586c196e202dd82f265e09284fa2ccd 2efb68e3ddc8b3ca49f4e9cae5f219ce18c7525c Emmanuel M <montanoemmanuel@gmail.com> 1723810741 -0700	commit: added detail about users
+2efb68e3ddc8b3ca49f4e9cae5f219ce18c7525c 98dc37c2c0ecb4320f5b3a3ff53192ece9c9a20b Emmanuel M <montanoemmanuel@gmail.com> 1723811562 -0700	commit: Fix build issues
+98dc37c2c0ecb4320f5b3a3ff53192ece9c9a20b b317faebd5186de4248ec9c69463694ff2181514 Emmanuel M <montanoemmanuel@gmail.com> 1724203332 -0700	commit: Update requirements.txt
