@@ -1,4 +1,4 @@
-telethon
+telethon==1.29.0
 asyncio
 pip freeze > requirements.txt
 
