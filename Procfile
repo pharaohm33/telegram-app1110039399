@@ -1,1 +1,1 @@
-worker: python group_scrapper.py
+web: python3 group_scrapper.py
